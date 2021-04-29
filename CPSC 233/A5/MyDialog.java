@@ -1,7 +1,5 @@
 /*
  * Name: Sipeng He
- * UCID: 30113342
- * Tutorial: T03
  * 
  * Version: April 8th, 2021
  * -building up the GUI, including the title, label, PasswordField and Button
