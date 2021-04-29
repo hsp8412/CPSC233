@@ -1,7 +1,5 @@
 /*
  * Name: Sipeng He
- * UCID: 30113342
- * Tutorial: T03
  * 
  * Version: April 9th, 2021
  * -the password reader can read the encrypted password from password.txt
