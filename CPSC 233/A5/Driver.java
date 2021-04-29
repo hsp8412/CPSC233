@@ -1,7 +1,5 @@
 /*
  * Name: Sipeng He
- * UCID: 30113342
- * Tutorial: T03
  * 
  * Program: Simple Shopping Program
  * Features:
