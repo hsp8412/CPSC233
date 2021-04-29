@@ -1,7 +1,5 @@
 /*
  * Name: Sipeng He
- * UCID: 30113342
- * Tutorial: T03
  * 
  * Version: April 10th, 2021
  * -the image of the company logo is put in a JLabel and added to the JFrame
