@@ -1,2 +1,2 @@
-# UCalgary_assignments
-Assignments from University of Calgary
+# CPSC233
+Assignments from CPSC 233
